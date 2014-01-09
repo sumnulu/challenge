@@ -71,7 +71,8 @@ Kriterler:
 
 Şartlar:
 --------
-+ ***[Vertx.io] kullanmak (vertx in desteklediği şu dilleri kullanabilirsiniz: java, groovy, phyton, ruby ve javascipt)***
++ **[Vertx.io] kullanmak (vertx in desteklediği şu dilleri kullanabilirsiniz: java, groovy, phyton, ruby ve javascipt)**
+Vertx dışında başka bir application server yada container  (Servlet, JSP, JSF, Spring, Tomcat vs. ) kullanmak yasak. Web server olarak da vertx kullanılmalı.
 + Program jurinin erişebileceği bir domainde çalışıyor olmalı.
 + Database olarak [MongoDb] kullanmak
 + Proje github da barındırılmalı ve açık bir lisansa sahip olmalı 
