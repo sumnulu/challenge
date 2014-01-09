@@ -30,7 +30,7 @@
 
 + Kullanıcılar anonim olarak formu doldurabilmeli. (üye olmak zorunda olmamalılar)
 
-+ Sorular N adımlı sihirbaz(wizard) türunde olmalı, bütün sorular aynı anda gösterilmemeli (J numaralı soru ğosterildikten sonra, J+1'ci soru gösterilmeli) 
++ Sorular N adımlı sihirbaz(wizard) türunde olmalı, bütün sorular aynı anda gösterilmemeli (J numaralı soru gösterildikten sonra, J+1'ci soru gösterilmeli) 
 
 + Kolayca yeni soru eklene bilmeli.
 
