@@ -75,8 +75,8 @@ Kriterler:
 + Program jurinin erişebileceği bir domainde çalışıyor olmalı.
 + Database olarak [MongoDb] kullanmak
 + Proje github da barındırılmalı ve açık bir lisansa sahip olmalı 
-+ Yarişmaya katılmak için bu repository'i clonelamanız lazım ve projeyi clonladığınız repository de yapmaniz gerekli. Değerlendirme sırası repositorinin clonelanma tarihi ile FIFO olarak yapılacak.
-+ 1 Mart 2014 tarihi yarışmanın son günü.  Bu tarihe kadar yaptığınız çalışma değerlendirilecek. 
++ Yarişmaya katılmak için [bu repository]'i clonelamanız lazım ve projeyi clonladığınız repository de yapmaniz gerekli. Değerlendirme sırası repositorinin clonelanma tarihi ile FIFO olarak yapılacak.
++ ***28 Şubat 2014*** tarihi yarışmanın son günü.  Bu tarihe kadar yaptığınız çalışma değerlendirilecek. Proje tamamlandığında pull request yollanmalı.
 + Bireysel yada takim olarak yapabilirsiniz.
 + Kopya çekmek serbest, atıfta bulunduğunuz sürece.
 + Proje size ait istediğiniz gibi daha sonra kullanabilirsiniz.
@@ -116,4 +116,5 @@ ADINIZ SOYADINIZ: (DOLDURULACAK)
 [MongoDb]: http://www.mongodb.org/
 [JavaScript Interview Questions]: http://o2js.com/interview-questions
 [Eventbus]: http://vertx.io/core_manual_java.html#the-event-bus 
+[bu repository]: https://github.com/sumnulu/challenge
 
