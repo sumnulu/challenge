@@ -36,7 +36,7 @@
 
 + Görsel tasarımdan daha çok kullanıcı deneyimi ***(UX design)*** önemli.
 
-+ Maaş tahmininde istediğiniz yöntemi kullanabilirsiniz, ***machine learning*** teknikleri yada diğer ***istatistiksel methodlar*** dahil. 
++ Maaş tahmininde istediğiniz yöntemi kullanabilirsiniz, ***machine learning*** teknikleri yada diğer ***istatistiksel methodlar*** dahil. hiç mathematik bilmiyorsanız ***Ortalama bile alabilirsiniz*** tamamen size kalmış. 
 
 + Böyle bir web sitesinde olmasını gerektiğini düşündüğünüz diğer bütün özelliklerde olmalı (Bu sizin kararınıza kalmış, değerlendirmede dikkate alınacak).  örneğin:Input fieldlerde autocomplate kullanılmalı mı? Google Analytics eklenmeli mi? Admin paneli olmalı mı? Anketi dolduranların listesini admin göre bilmeli mi? (not: Vakit sınırsız değildir, değerlidir ve verimli kullanılmalıdır bu yüzden; gereksiz özellik eklemek değerlendirmede eksi puan getirebilir)
 
@@ -59,6 +59,7 @@
 
 Kriterler:
 ----------
+***NOT: Bura da yazanlar sadece kriter hepsini yapmak zorunda değilsiniz! Size yol göstermek maksadıyla yazıldı***
 + Programın çalışıp çalışmadığı
 + Kod kalitesi, kodun anlaşılabilinirliği ve dökümantasyonu
 + UX design (Kullanıcı Deneyimi)
@@ -72,12 +73,12 @@ Kriterler:
 Şartlar:
 --------
 + **[Vertx.io] kullanmak (vertx in desteklediği şu dilleri kullanabilirsiniz: java, groovy, phyton, ruby ve javascipt)**
-Vertx dışında başka bir application server yada container  (Servlet, JSP, JSF, Spring, Tomcat, NodeJs vs. ) kullanmak yasak. Web server olarak da vertx kullanılmalı. Embeded olarak başka bir java programında çalıştırılmamalı.
+Vertx nedir diye daha önce duymadıysanız sorun değil çoğu kişi bilmiyor :) Sitesinde çok güzel bir dökümantasyon var hızlıca öğrenebilsiniz.
 + Program jurinin erişebileceği bir domainde çalışıyor olmalı.
 + Database olarak [MongoDb] kullanmak
 + Proje github da barındırılmalı ve açık bir lisansa sahip olmalı 
 + Yarişmaya katılmak için [bu repository]'i clonelamanız lazım ve projeyi clonladığınız repository de yapmaniz gerekli. Değerlendirme sırası repositorinin clonelanma tarihi ile FIFO olarak yapılacak.
-+ ***28 Şubat 2014*** tarihi yarışmanın son günü.  Bu tarihe kadar yaptığınız çalışma değerlendirilecek. Proje tamamlandığında pull request yollanmalı.
++ ***28 Mart 2014*** tarihi yarışmanın son günü.  Bu tarihe kadar yaptığınız çalışma değerlendirilecek. Proje tamamlandığında pull request yollanmalı.
 + Bireysel yada takim olarak yapabilirsiniz.
 + Kopya çekmek serbest, atıfta bulunduğunuz sürece.
 + Proje size ait istediğiniz gibi daha sonra kullanabilirsiniz.
