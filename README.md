@@ -78,7 +78,7 @@ Vertx nedir diye daha önce duymadıysanız sorun değil çoğu kişi bilmiyor :
 + Database olarak [MongoDb] kullanmak
 + Proje github da barındırılmalı ve açık bir lisansa sahip olmalı 
 + Yarişmaya katılmak için [bu repository]'i clonelamanız lazım ve projeyi clonladığınız repository de yapmaniz gerekli. Değerlendirme sırası repositorinin clonelanma tarihi ile FIFO olarak yapılacak.
-+ ***28 Mart 2014*** tarihi yarışmanın son günü.  Bu tarihe kadar yaptığınız çalışma değerlendirilecek. Proje tamamlandığında pull request yollanmalı.
++ ***28 Mart 2014*** yarışmanın son günü. Proje tamamlandığında pull request yollanmalı. Bu tarihten sonras yine yollaya bilirsiniz ama intellij ödülü olmayacak.
 + Bireysel yada takim olarak yapabilirsiniz.
 + Kopya çekmek serbest, atıfta bulunduğunuz sürece.
 + Proje size ait istediğiniz gibi daha sonra kullanabilirsiniz.
